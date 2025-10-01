@@ -6,11 +6,14 @@
 
 ---
 
-## 📊 My Data Story  
+## 📊 Snapshot  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00D1FF&center=true&vCenter=true&width=800&lines=🎓+Master+of+Data+Science+%26+Analytics+(Business+Analytics);💻+Python+%7C+SQL+%7C+R;🛠️+Power+BI+%7C+Tableau+%7C+Excel+%7C+Gurobi+%7C+Monte+Carlo;🧠+Risk+Analytics+%7C+Optimization+%7C+Forecasting+%7C+ML;🌎+Based+in+Canada+🇨🇦" alt="Typing SVG"/>
-</p>
+- 🎓 **Education**: Master of Data Science & Analytics (Business Analytics)  
+- 💻 **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
+- 🛠️ **Tools**: Power BI • Tableau • Excel • Gurobi • Monte Carlo Simulation  
+- 🧠 **Focus Areas**: Risk Analytics • Optimization • Forecasting • ML  
+- 🌎 **Location**: Canada 🇨🇦
+
 
 
 ---
