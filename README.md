@@ -1,7 +1,7 @@
 <!-- Header -->
-<h1 align="center"> 📊 Arshdeep Kaur – Data in Action </h1>
+<h1 align="center"> 📊 Arshdeep Kaur  </h1>
 <p align="center">
-  Data Scientist | Business Analytics | Finance • Energy • Supply Chain
+  Data Scientist | Business Analytics | Finance • Energy • Product
 </p>
 
 <!-- Typing animation -->
@@ -69,14 +69,6 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
----
-
-## 🐍 Contributions Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
