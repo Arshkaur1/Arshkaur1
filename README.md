@@ -21,46 +21,6 @@
 
 ---
 
-## 🚀 My Projects as Case Studies  
-
-<details>
-  <summary>💳 Credit Risk Modeling</summary>
-  <br/>
-  • **Problem:** Predict loan default probability.  
-  • **Method:** Logistic Regression, Random Forest, Gradient Boosting.  
-  • **Impact:** AUC = **0.89**, reduced expected loss by **12%**.  
-  📂 [View Repository](https://github.com/yourusername/credit-risk-modeling)
-</details>
-
-<details>
-  <summary>🔍 Fraud Detection in Utilities</summary>
-  <br/>
-  • **Problem:** Detect anomalies in electricity & gas usage.  
-  • **Method:** Random Forest + Gradient Boosting + Explainability (SHAP).  
-  • **Impact:** Reduced false positives by **18%**, cut review time by **40%**.  
-  📂 [View Repository](https://github.com/yourusername/fraud-detection-energy)
-</details>
-
-<details>
-  <summary>📦 Supply Chain Optimization</summary>
-  <br/>
-  • **Problem:** Decide optimal production under uncertainty.  
-  • **Method:** Linear Programming + Monte Carlo Simulation.  
-  • **Impact:** Maximized profit with robust NPV strategy.  
-  📂 [View Repository](https://github.com/yourusername/supply-chain-optimization)
-</details>
-
-<details>
-  <summary>🚗 Dynamic Pricing for Ride-Sharing</summary>
-  <br/>
-  • **Problem:** Balance rider demand & driver supply.  
-  • **Method:** Reinforcement Learning (RL).  
-  • **Impact:** Improved revenue + reduced wait times.  
-  📂 [View Repository](https://github.com/yourusername/ride-share-pricing)
-</details>
-
----
-
 ## 🔮 My Tech Stack  
 
 <p align="center">
