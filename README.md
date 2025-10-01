@@ -11,12 +11,12 @@
 
 ---
 
-## 📊 Snapshot  
+## 👩🏻‍💻� Brief  
 
-- 🎓 **Education**: Master of Data Science & Analytics (Business Analytics)  
+- 🎓 **Education**: Master of Data Science & Analytics (Business Analytics) @UCalgary 
 - 💻 **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
-- 🛠️ **Tools**: Power BI • Tableau • Excel • Gurobi • Monte Carlo Simulation  
-- 🧠 **Focus Areas**: Risk Analytics • Optimization • Forecasting • ML  
+- 💻 **Analysis**: Machine Learning • LLM • Experimentation Design • Consulting • Database Management
+- 🧠 **Focus Areas**: Risk Analytics • Optimization • Forecasting  
 - 🌎 **Location**: Canada 🇨🇦  
 
 ---
