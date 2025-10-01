@@ -6,7 +6,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00D1FF&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Business+Impact;Risk+Analytics+%7C+Optimization+%7C+Forecasting;Finance+%7C+Energy+%7C+Supply+Chain;Based+in+Canada+🇨🇦" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Business+Impact;Risk+Analytics,+Optimization,+Forecasting;Finance,+Energy,+Product;Based+in+Canada" alt="Typing SVG"/>
 </p>
 
 ---
@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arshkaur1/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:arshdeep.kaur4@ucalgary.ca"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:arshkaur1610@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
