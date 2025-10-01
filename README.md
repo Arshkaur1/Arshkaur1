@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center"> 📊 Arshdeep Kaur  </h1>
+<h1 align="center">  Arshdeep Kaur  </h1>
 <p align="center">
   Data Scientist | Business Analytics | Finance • Energy • Product
 </p>
@@ -11,7 +11,7 @@
 
 ---
 
-## 👩🏻‍💻� Brief  
+## 👩🏻‍💻 Brief  
 
 - 🎓 **Education**: Master of Data Science & Analytics (Business Analytics) @UCalgary 
 - 💻 **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
@@ -21,7 +21,7 @@
 
 ---
 
-## 🔮 My Tech Stack  
+## 🔮 Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
