@@ -4,6 +4,11 @@
   Data Scientist | Business Analytics | Finance • Energy • Supply Chain
 </p>
 
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00D1FF&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Business+Impact;Risk+Analytics+%7C+Optimization+%7C+Forecasting;Finance+%7C+Energy+%7C+Supply+Chain;Based+in+Canada+🇨🇦" alt="Typing SVG"/>
+</p>
+
 ---
 
 ## 📊 Snapshot  
@@ -12,43 +17,47 @@
 - 💻 **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
 - 🛠️ **Tools**: Power BI • Tableau • Excel • Gurobi • Monte Carlo Simulation  
 - 🧠 **Focus Areas**: Risk Analytics • Optimization • Forecasting • ML  
-- 🌎 **Location**: Canada 🇨🇦
-
-
+- 🌎 **Location**: Canada 🇨🇦  
 
 ---
 
 ## 🚀 My Projects as Case Studies  
 
-### 🔹 Credit Risk Modeling  
-> **Problem:** Predict loan default probability.  
-> **Method:** Logistic Regression, Random Forest, Gradient Boosting.  
-> **Impact:** AUC = **0.89**, reduced expected loss by **12%**.  
-📂 [View Repository](https://github.com/yourusername/credit-risk-modeling)  
+<details>
+  <summary>💳 Credit Risk Modeling</summary>
+  <br/>
+  • **Problem:** Predict loan default probability.  
+  • **Method:** Logistic Regression, Random Forest, Gradient Boosting.  
+  • **Impact:** AUC = **0.89**, reduced expected loss by **12%**.  
+  📂 [View Repository](https://github.com/yourusername/credit-risk-modeling)
+</details>
 
----
+<details>
+  <summary>🔍 Fraud Detection in Utilities</summary>
+  <br/>
+  • **Problem:** Detect anomalies in electricity & gas usage.  
+  • **Method:** Random Forest + Gradient Boosting + Explainability (SHAP).  
+  • **Impact:** Reduced false positives by **18%**, cut review time by **40%**.  
+  📂 [View Repository](https://github.com/yourusername/fraud-detection-energy)
+</details>
 
-### 🔹 Fraud Detection in Utilities  
-> **Problem:** Detect anomalies in electricity & gas usage.  
-> **Method:** Random Forest + Gradient Boosting + Explainability (SHAP).  
-> **Impact:** Reduced false positives by **18%**, cut review time by **40%**.  
-📂 [View Repository](https://github.com/yourusername/fraud-detection-energy)  
+<details>
+  <summary>📦 Supply Chain Optimization</summary>
+  <br/>
+  • **Problem:** Decide optimal production under uncertainty.  
+  • **Method:** Linear Programming + Monte Carlo Simulation.  
+  • **Impact:** Maximized profit with robust NPV strategy.  
+  📂 [View Repository](https://github.com/yourusername/supply-chain-optimization)
+</details>
 
----
-
-### 🔹 Supply Chain Optimization  
-> **Problem:** Decide optimal production under uncertainty.  
-> **Method:** Linear Programming + Monte Carlo Simulation.  
-> **Impact:** Maximized profit with robust NPV strategy.  
-📂 [View Repository](https://github.com/yourusername/supply-chain-optimization)  
-
----
-
-### 🔹 Dynamic Pricing for Ride-Sharing  
-> **Problem:** Balance rider demand & driver supply.  
-> **Method:** Reinforcement Learning (RL).  
-> **Impact:** Improved revenue + reduced wait times.  
-📂 [View Repository](https://github.com/yourusername/ride-share-pricing)  
+<details>
+  <summary>🚗 Dynamic Pricing for Ride-Sharing</summary>
+  <br/>
+  • **Problem:** Balance rider demand & driver supply.  
+  • **Method:** Reinforcement Learning (RL).  
+  • **Impact:** Improved revenue + reduced wait times.  
+  📂 [View Repository](https://github.com/yourusername/ride-share-pricing)
+</details>
 
 ---
 
@@ -64,11 +73,10 @@
 
 ---
 
-## 📊 Fun GitHub Analytics  
+## 🐍 Contributions Snake  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" width="48%">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
