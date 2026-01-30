@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">  Arshdeep Kaur  </h1>
 <p align="center">
-  Data Scientist | Business Analytics | Finance • Energy • Product
+  Data Science & Business Analytics  
 </p>
 
 <!-- Typing animation -->
@@ -11,17 +11,17 @@
 
 ---
 
-## 👩🏻‍💻 Brief  
+## Background Highlights  
 
-- 🎓 **Education**: Master of Data Science & Analytics (Business Analytics) @UCalgary 
+- 🎓 **Education**: Master of Data Science & Analytics (Business Analytics) @ University of Calgary 
 - 💻 **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
-- 💻 **Analysis**: Machine Learning • LLM • Experimentation Design • Consulting • Database Management
+- 💻 **Analysis**: Machine Learning • GenAI • Consulting • Database Management • Business Analysis
 - 🧠 **Focus Areas**: Risk Analytics • Optimization • Forecasting  
 - 🌎 **Location**: Canada 🇨🇦  
 
 ---
 
-## 🔮 Tech Stack  
+## Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,7 +33,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arshkaur1/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-✨ *Turning raw data into actionable insights – one project at a time.* ✨
+✨ *Turning raw data into actionable insights* ✨
 </p>
