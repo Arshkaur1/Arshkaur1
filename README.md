@@ -4,20 +4,12 @@
   Data Science & Business Analytics  
 </p>
 
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Business+Impact;Risk+Analytics,+Optimization,+Forecasting;Finance,+Energy,+Product;Based+in+Canada" alt="Typing SVG"/>
-</p>
-
----
-
 ## Background Highlights  
 
-- 🎓 **Education**: Master of Data Science & Analytics (Business Analytics) @ University of Calgary 
-- 💻 **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
-- 💻 **Analysis**: Machine Learning • GenAI • Consulting • Database Management • Business Analysis
-- 🧠 **Focus Areas**: Risk Analytics • Optimization • Forecasting  
-- 🌎 **Location**: Canada 🇨🇦  
+- **Education**: Master of Data Science & Analytics (Business Analytics) @ University of Calgary 
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
+-  **Analysis**: Machine Learning • Consulting • Database Management • Business Analysis 
+-  **Location**: Canada   
 
 ---
 
