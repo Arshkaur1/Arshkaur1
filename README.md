@@ -8,7 +8,7 @@
 
 - **Education**: Master of Data Science & Analytics (Business Analytics) @ University of Calgary 
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
--  **Analysis**: Machine Learning • Consulting • Database Management • Business Analysis 
+-  **Analysis**: Machine Learning • Consulting • Database Management • Business Analysis • Product Analytics
 -  **Location**: Canada   
 
 ---
