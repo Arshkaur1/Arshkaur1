@@ -29,7 +29,7 @@ I'm a data science enthusiast with over two years of experience delivering impac
 - **Professional Experience:** Convocation and Document Services Support at the Office of Registrar
 
 ### Chanidgarh University
-**Punjab, India**
+**Mohali, India**
 - **MSc in Data Science** (2021-2023)
 - Cumulative GPA: 8.30 / 10.0
 - Merit-based Student Scholarship (2021 - 2023)
