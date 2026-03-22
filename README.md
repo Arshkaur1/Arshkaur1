@@ -9,7 +9,7 @@ I'm a data science enthusiast with over two years of experience delivering impac
 
 ## About Me
 - 🏢 Previously worked at Cybereccon as an Data Scientist and Data Analyst Intern, building predictive models and advanced nalytics for scalable data solutions
-- 🔭 **Master's in Data Science and Analytics** at the University of Calgary**(August 2025)
+- 🔭 **Master's in Data Science and Analytics** at the University of Calgary (August 2025)
 - 🌱 Learning to become a product data scientist
 - 👯 Open to collaborating on impactful projects
 - 🙋 Looking for guidance on cloud deployment & automation
