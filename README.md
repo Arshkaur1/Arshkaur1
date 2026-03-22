@@ -9,7 +9,7 @@ I'm a data science enthusiast with over two years of experience delivering impac
 
 ## About Me
 - 🏢 Previously worked at Cybereccon as an Data Scientist and Data Analyst Intern, building predictive models and advanced nalytics for scalable data solutions
-- 🔭 **Master's in Data Science and Analytics** at the University of Calgary **Specialization in Business Analytics**(August 2025)
+- 🔭 **Master's in Data Science and Analytics** at the University of Calgary**(August 2025)
 - 🌱 Learning to become a product data scientist
 - 👯 Open to collaborating on impactful projects
 - 🙋 Looking for guidance on cloud deployment & automation
@@ -38,7 +38,7 @@ I'm a data science enthusiast with over two years of experience delivering impac
   
 ### Panjab University
 **Chandigarh, India**
-- **Bachelor of Science (Mathematics - Hons) ** (2017-2020)
+- **Bachelor of Science (Mathematics - Hons)** (2017-2020)
 - Cumulative GPA: 8.0 / 10.0
 - **Relevant Coursework:** Linear Algebra, Statistics, Probability, Advanced Calculus, Real Analysis, Linear Programming, Analysis 
   
