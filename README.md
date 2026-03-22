@@ -1,5 +1,10 @@
 # Hi, I am Arsh 
 
+<p align="center">
+ <img src="https://github.com/Arshkaur1/Arshkaur1/blob/main/image.png" alt="Alt Text" style="width: 500px; height: 300px; display: block; margin-left: auto; margin-right: auto;" />
+</p>
+
+
 I'm a data science enthusiast with over two years of experience delivering impactful data solutions using advanced analytics, machine learning, and business intelligence. With a strong background in data science and analytics, I aim to drive innovation by leveraging data to solve complex business challenges and deliver actionable insights.
 
 ## About Me
