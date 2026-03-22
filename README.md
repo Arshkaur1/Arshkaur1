@@ -12,7 +12,7 @@ I'm a data science enthusiast with over two years of experience delivering impac
 - 🔭 **Master's in Data Science and Analytics** at the University of Calgary (August 2025)
 - 🌱 Learning to become a product data scientist
 - 👯 Open to collaborating on impactful projects
-- 🙋 Looking for guidance on cloud deployment & automation
+- 🙋 Looking for guidance on cloud deployment & product analytics
 - 💬 Ask me about **Python, R, SQL, BigQuery, or Spark**
 - 😄 Pronouns: She/Her
 
