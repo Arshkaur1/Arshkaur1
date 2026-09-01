@@ -1,4 +1,4 @@
-# Hi, I am Arshdeep 
+# Hi, I am Arsh 
 
 <p align="center">
  <img src="https://github.com/Arshkaur1/Arshkaur1/blob/main/image.png" alt="Alt Text" style="width: 500px; height: 300px; display: block; margin-left: auto; margin-right: auto;" />
